@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- VirusScan_Status --></label>
+    <name>VirusScan_Status__c</name>
+    <picklistValues>
+        <masterLabel>Limpo</masterLabel>
+        <translation><!-- Limpo --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Não_Scan</masterLabel>
+        <translation><!-- Não_Scan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Suspeito</masterLabel>
+        <translation><!-- Suspeito --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

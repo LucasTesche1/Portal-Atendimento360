@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Status_SLA --></label>
+    <name>Status_SLA__c</name>
+    <picklistValues>
+        <masterLabel>Em dia</masterLabel>
+        <translation><!-- Em dia --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Em risco</masterLabel>
+        <translation><!-- Em risco --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Renegociado</masterLabel>
+        <translation><!-- Renegociado --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vencido</masterLabel>
+        <translation><!-- Vencido --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
